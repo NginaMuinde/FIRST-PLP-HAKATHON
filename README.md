@@ -96,11 +96,7 @@ Alternatively, provide direct contact information:
 
 
 
-
-Email: your.carondemui@gmail.com​
-
+website: index2.html
+Email: carondemui@gmail.com​
 LinkedIn: linkedin.com/in/carolinemuinde​
-
 GitHub: github.com/carolinemuinde​
-
-This structured approach ensures that your portfolio effectively highlights your skills, experiences, and aspirations, making it a valuable tool in your transition into the tech industry.
