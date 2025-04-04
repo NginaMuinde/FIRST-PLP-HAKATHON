@@ -97,6 +97,9 @@ Alternatively, provide direct contact information:
 
 
 website: index2.html
+
 Email: carondemui@gmail.com​
+
 LinkedIn: linkedin.com/in/carolinemuinde​
+
 GitHub: github.com/carolinemuinde​
